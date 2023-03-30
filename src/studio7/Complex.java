@@ -9,7 +9,6 @@ public class Complex {
 		this.b = b;
 	}
 	
-	
 	public static void main(String[] args) {
 	}
 
